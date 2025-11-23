@@ -1,0 +1,1 @@
+# stdlib uniquement ; Hayabusa doit être fourni sous forme de binaire externe

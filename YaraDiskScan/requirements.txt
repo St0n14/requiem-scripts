@@ -1,0 +1,2 @@
+dissect-target>=3.0.0
+yara-python>=4.3.0
